@@ -8,7 +8,6 @@ public class Circle{
 
     Scanner input = new Scanner(System.in);
 
-    System.out.println("Enter the Radius: ");
     double R = input.nextInt();
     double C = 2 * 3.14 * R;
     double A = 3.14 * R * R;
